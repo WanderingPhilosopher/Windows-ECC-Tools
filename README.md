@@ -1,4 +1,7 @@
-# ecctools
+# Windows ECC Tools
+
+Fork of https://github.com/albertobsd/ecctools  but for Windows users.
+
 Small collection of tools written in C for ECC and bitcoin
 
 ## Why this programs are written in C language?
@@ -20,7 +23,7 @@ apt install libgmp
 Clone this repository
 
 ```
-git clone https://github.com/albertobsd/ecctools.git
+git clone https://github.com/WanderingPhilosopher/Windows-ECC-Tools.git
 ```
 
 Compile:
